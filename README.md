@@ -4,5 +4,7 @@ Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation T
 <p>
 To Do:
 [-] Task 1
+  <p>
 [] Task 2
+    <p>
 [] Task 3
