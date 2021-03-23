@@ -99,4 +99,23 @@ class Spectrum(object):
 
 
 if __name__ == '__main__':
-    print("Error! Can only import this script!")
+    print("Tests the class Spectrum")
+    # v0 to store both central frequencies
+    v0 = [2.46607e15, 2.46632e15]
+    # d to store all thicknesses
+    d = [10e14, 10e18, 10e21]
+
+    for i in v0:
+        for j in d:
+            obj = Spectrum(i, j, 3010349, 115e-7, 135e-7)
+            obj.generate()
+            print("-----------------------------")
+            print("Number of wavelengths sampled: ", len(obj))
+            print(obj)
+            print("Wavelength of Minimum Intensity: ",
+                  obj.wavelengths[obj.intensities.index(min(obj.intensities))],
+                  "nm")
+            print("Minimum Intensity: ",
+                  obj.intensities[obj.intensities.index(min(obj.intensities))])
+            obj.show()
+    print("-----------------------------")
