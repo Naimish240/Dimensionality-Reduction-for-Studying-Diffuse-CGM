@@ -12,6 +12,10 @@ Repo Structure
 │   │   └──  spectrum.py
 │   │
 │   └── task3
+│       ├──  preprocessing.py
+│       ├──  eda.py
+│       ├──  classify.py
+│       └──  dimRedn.py
 │
 └── solutions
     ├──  Task 1 - CGM21.pdf
