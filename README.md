@@ -18,12 +18,19 @@ Repo Structure
 │       └──  dimRedn.py
 │
 └── solutions
-    ├──  Task 1 - CGM21.pdf
-    ├──  Task2-Detailed.ipynb
-    ├──  Task2-Short.ipynb
-    ├──  Task3-Classification.ipynb
-    ├──  Task3-DimRdn.ipynb
-    └──  Task3-Short.ipynb
+    ├── Notebooks
+    │   ├──  Task2-Short.ipynb
+    │   ├──  Task2-Detailed.ipynb
+    │   ├──  Task3-Classification.ipynb
+    │   ├──  Task3-DimRdn.ipynb
+    │   └──  Task3-Short.ipynb
+    │
+    ├── pdfs
+    │   ├──  Task 1 - CGM21.pdf
+    │   ├──  Task2-Short.pdf
+    │   └──  Task2-Detailed.pdf
+    │
+    └── questions.pdf
 ```
 
  My final solutions for the tasks given to me can be found in the folder titled 'solutions'.
