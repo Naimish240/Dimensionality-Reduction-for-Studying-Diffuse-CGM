@@ -1,2 +1,4 @@
 # Ignore the Dataset
 *.csv
+*.DS_Store
+.vscode
