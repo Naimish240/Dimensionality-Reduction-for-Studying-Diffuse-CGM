@@ -6,25 +6,17 @@ Repo Structure
 .
 ├── env
 ├── src
-│   ├── task2
-│   │   ├──  generateSpectrum.py
-│   │   ├──  main.py
-│   │   └──  spectrum.py
-│   │
-│   └── task3
-│       ├──  preprocessing.py
-│       ├──  eda.py
-│       ├──  classify.py
-│       └──  dimRedn.py
+│   └── task2
+│       ├──  generateSpectrum.py
+│       ├──  main.py
+│       └──  spectrum.py
 │
 └── solutions
     ├── Notebooks
     │   ├──  Task1.ipynb
     │   ├──  Task2-Short.ipynb
     │   ├──  Task2-Detailed.ipynb
-    │   ├──  Task3-Classification.ipynb
-    │   ├──  Task3-DimRdn.ipynb
-    │   └──  Task3-Short.ipynb
+    │   └──  Task3-Classification.ipynb
     │
     ├── pdfs
     │   ├──  Task 1 - CGM21.pdf
