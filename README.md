@@ -6,10 +6,16 @@ Repo Structure
 .
 ├── env
 ├── src
-│   └── task2
-│       ├──  generateSpectrum.py
-│       ├──  main.py
-│       └──  spectrum.py
+│   ├──  task2
+│   │    ├──  generateSpectrum.py
+│   │    ├──  main.py
+│   │    └──  spectrum.py
+│   │
+│   └── task3
+│        ├──  preprocessing.py
+│        ├──  models.py
+│        ├──  reduction.py
+│        └──  main.py
 │
 └── solutions
     ├── Notebooks
