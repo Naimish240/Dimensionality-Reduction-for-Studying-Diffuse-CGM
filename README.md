@@ -1,6 +1,12 @@
 # GSoC21-ML4SCI
 Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation Test Solutions
 ***
+
+Notes:
+PDFs for the task solutions can be found in `solutions/pdfs/`
+
+Notebooks for the task solutions can be found in `solutions/Notebooks/`
+
 Repo Structure
 ```
 .
