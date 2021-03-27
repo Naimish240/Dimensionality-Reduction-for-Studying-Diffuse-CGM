@@ -1,0 +1,233 @@
+-----------------------------
+1 th column properties
+Maximum element:  1.0
+Minimum element:  0
+Sum of all elements:  3178345.0
+Average value of column:  0.5297241666666667
+Variance of column:  0.24911647393302003
+Standard Deviation of column:  0.49911569193226135
+-----------------------------
+2 th column properties
+Maximum element:  10.396014213562012
+Minimum element:  0
+Sum of all elements:  5946832.861814141
+Average value of column:  0.9911388103023568
+Variance of column:  0.31910747559135505
+Standard Deviation of column:  0.5648959865243822
+-----------------------------
+3 th column properties
+Maximum element:  2.4348678588867188
+Minimum element:  -2.434976100921631
+Sum of all elements:  -37.90278963888704
+Average value of column:  -6.317131606481174e-06
+Variance of column:  1.0179089684308118
+Standard Deviation of column:  1.0089147478507843
+-----------------------------
+4 th column properties
+Maximum element:  1.7432359457015991
+Minimum element:  -1.7425082921981812
+Sum of all elements:  2179.9233033626515
+Average value of column:  0.0003633205505604419
+Variance of column:  1.0126025136310268
+Standard Deviation of column:  1.0062815280183905
+-----------------------------
+5 th column properties
+Maximum element:  15.396821022033691
+Minimum element:  0
+Sum of all elements:  5989140.586218525
+Average value of column:  0.9981900977030874
+Variance of column:  0.3599341868153116
+Standard Deviation of column:  0.5999451531726142
+-----------------------------
+6 th column properties
+Maximum element:  1.7432570457458496
+Minimum element:  -1.7439435720443726
+Sum of all elements:  191.42729802763472
+Average value of column:  3.190454967127245e-05
+Variance of column:  1.0125334808652635
+Standard Deviation of column:  1.0062472265130789
+-----------------------------
+7 th column properties
+Maximum element:  8.848615646362305
+Minimum element:  0
+Sum of all elements:  5945316.067786321
+Average value of column:  0.9908860112977201
+Variance of column:  0.2257012931636241
+Standard Deviation of column:  0.47508030180552013
+-----------------------------
+8 th column properties
+Maximum element:  2.9696741104125977
+Minimum element:  -2.9697251319885254
+Sum of all elements:  -3217.0929215975484
+Average value of column:  -0.0005361821535995914
+Variance of column:  1.0184642769108467
+Standard Deviation of column:  1.0091899112212956
+-----------------------------
+9 th column properties
+Maximum element:  1.741453766822815
+Minimum element:  -1.7412374019622803
+Sum of all elements:  -536.4226136379366
+Average value of column:  -8.94037689396561e-05
+Variance of column:  1.011793514406231
+Standard Deviation of column:  1.005879473101142
+-----------------------------
+10 th column properties
+Maximum element:  2.1730761528015137
+Minimum element:  0
+Sum of all elements:  6002983.795240402
+Average value of column:  1.0004972992067338
+Variance of column:  1.05636671383893
+Standard Deviation of column:  1.0277970197655422
+-----------------------------
+11 th column properties
+Maximum element:  11.64708137512207
+Minimum element:  0
+Sum of all elements:  5954836.827848464
+Average value of column:  0.9924728046414107
+Variance of column:  0.2500135794311201
+Standard Deviation of column:  0.5000135792467242
+-----------------------------
+12 th column properties
+Maximum element:  2.913209915161133
+Minimum element:  -2.9130895137786865
+Sum of all elements:  2233.3701508313934
+Average value of column:  0.0003722283584718989
+Variance of column:  1.0191696608473089
+Standard Deviation of column:  1.0095393310056369
+-----------------------------
+13 th column properties
+Maximum element:  1.7431747913360596
+Minimum element:  -1.742371678352356
+Sum of all elements:  -1220.633285110598
+Average value of column:  -0.00020343888085176635
+Variance of column:  1.0122511957187583
+Standard Deviation of column:  1.0061069504375557
+-----------------------------
+14 th column properties
+Maximum element:  2.214872121810913
+Minimum element:  0
+Sum of all elements:  5996993.294195533
+Average value of column:  0.9994988823659221
+Variance of column:  1.101242963998694
+Standard Deviation of column:  1.049401240707621
+-----------------------------
+15 th column properties
+Maximum element:  11.423816680908203
+Minimum element:  0
+Sum of all elements:  5952854.309081405
+Average value of column:  0.9921423848469009
+Variance of column:  0.23760923797589215
+Standard Deviation of column:  0.4874517801546038
+-----------------------------
+16 th column properties
+Maximum element:  2.730008840560913
+Minimum element:  -2.7296628952026367
+Sum of all elements:  768.9688448131783
+Average value of column:  0.00012816147413552973
+Variance of column:  1.0170725251795496
+Standard Deviation of column:  1.0085001364301096
+-----------------------------
+17 th column properties
+Maximum element:  1.7428839206695557
+Minimum element:  -1.7420687675476074
+Sum of all elements:  -1262.268708464704
+Average value of column:  -0.00021037811807745067
+Variance of column:  1.0128604288403007
+Standard Deviation of column:  1.0064096724695668
+-----------------------------
+18 th column properties
+Maximum element:  2.548224449157715
+Minimum element:  0
+Sum of all elements:  6001892.928375721
+Average value of column:  1.0003154880626202
+Variance of column:  1.4251660073788244
+Standard Deviation of column:  1.1938031694457945
+-----------------------------
+19 th column properties
+Maximum element:  12.882567405700684
+Minimum element:  0
+Sum of all elements:  5915676.82774201
+Average value of column:  0.9859461379570017
+Variance of column:  0.2558431467138864
+Standard Deviation of column:  0.5058093976132575
+-----------------------------
+20 th column properties
+Maximum element:  2.498008966445923
+Minimum element:  -2.497264862060547
+Sum of all elements:  329.7330472720496
+Average value of column:  5.495550787867493e-05
+Variance of column:  1.0155320212289074
+Standard Deviation of column:  1.0077360870927008
+-----------------------------
+21 th column properties
+Maximum element:  1.7433723211288452
+Minimum element:  -1.7426908016204834
+Sum of all elements:  60.60094377648784
+Average value of column:  1.0100157296081306e-05
+Variance of column:  1.012761052358419
+Standard Deviation of column:  1.0063602994745067
+-----------------------------
+22 th column properties
+Maximum element:  3.101961374282837
+Minimum element:  0
+Sum of all elements:  5997043.638630629
+Average value of column:  0.9995072731051048
+Variance of column:  1.9601375299212984
+Standard Deviation of column:  1.4000491169674365
+-----------------------------
+23 th column properties
+Maximum element:  31.076190948486328
+Minimum element:  0
+Sum of all elements:  6205758.422267348
+Average value of column:  1.0342930703778912
+Variance of column:  0.45335089531034045
+Standard Deviation of column:  0.6733133708091207
+-----------------------------
+24 th column properties
+Maximum element:  15.637859344482422
+Minimum element:  0
+Sum of all elements:  6148634.813084021
+Average value of column:  1.024772468847337
+Variance of column:  0.1447582976627545
+Standard Deviation of column:  0.38047115220835664
+-----------------------------
+25 th column properties
+Maximum element:  7.992739200592041
+Minimum element:  0
+Sum of all elements:  6302430.75761237
+Average value of column:  1.0504051262687284
+Variance of column:  0.02691001189834657
+Standard Deviation of column:  0.1640427136399132
+-----------------------------
+26 th column properties
+Maximum element:  14.262438774108887
+Minimum element:  0
+Sum of all elements:  6058401.133418202
+Average value of column:  1.009733522236367
+Variance of column:  0.15795921795987394
+Standard Deviation of column:  0.39744083579807693
+-----------------------------
+27 th column properties
+Maximum element:  17.76285171508789
+Minimum element:  0
+Sum of all elements:  5838172.780578401
+Average value of column:  0.9730287967630669
+Variance of column:  0.2762122941977667
+Standard Deviation of column:  0.5255590301743152
+-----------------------------
+28 th column properties
+Maximum element:  8.779914855957031
+Minimum element:  0
+Sum of all elements:  6198300.30404377
+Average value of column:  1.0330500506739617
+Variance of column:  0.13347029125459536
+Standard Deviation of column:  0.36533586089322706
+-----------------------------
+29 th column properties
+Maximum element:  6.966903209686279
+Minimum element:  0
+Sum of all elements:  5758588.878965914
+Average value of column:  0.9597648131609857
+Variance of column:  0.09817915558016489
+Standard Deviation of column:  0.31333553194645014
+-----------------------------
