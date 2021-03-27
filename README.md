@@ -4,7 +4,6 @@ Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation T
 Repo Structure
 ```
 .
-├── env
 ├── src
 │   ├──  task2
 │   │    ├──  generateSpectrum.py
