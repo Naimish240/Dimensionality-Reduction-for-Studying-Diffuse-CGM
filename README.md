@@ -2,7 +2,6 @@
 Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation Test Solutions
 ***
 
-Notes:
 PDFs for the task solutions can be found in [solutions/pdfs/](https://github.com/Naimish240/GSoC21-ML4SCI/tree/main/solutions/pdfs)
 
 Notebooks for the task solutions can be found in [solutions/Notebooks/](https://github.com/Naimish240/GSoC21-ML4SCI/tree/main/solutions/notebooks)
