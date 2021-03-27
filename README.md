@@ -25,14 +25,14 @@ Repo Structure
 └── solutions
     ├── Notebooks
     │   ├──  Task1.ipynb
-    │   ├──  Task2-Short.ipynb
-    │   ├──  Task2-Detailed.ipynb
+    │   ├──  Task2-Solutions.ipynb
+    │   ├──  Task2-Explanation.ipynb
     │   └──  Task3.ipynb
     │
     ├── pdfs
     │   ├──  Task 1 - CGM21.pdf
-    │   ├──  Task2-Short.pdf
-    │   ├──  Task2-Detailed.pdf
+    │   ├──  Task2-Solution.pdf
+    │   ├──  Task2-Explanation.pdf
     │   └──  Task3.pdf
     │
     └── questions.pdf
@@ -40,8 +40,5 @@ Repo Structure
 ***
  My final solutions for the tasks given to me can be found in the folder titled 'solutions'.
 ***
-
-The virtual environment I used has been provided as 'env'. It isn't the most secure of practices, though.
-
 Running `python3 spectrum.py` in the `task2` folder will generate the required graphs for the second task.
 ***
