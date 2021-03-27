@@ -11,6 +11,7 @@ Repo Structure
 │   │    └──  spectrum.py
 │   │
 │   └── task3
+│        ├──  DatasetProperties.txt
 │        ├──  preprocessing.py
 │        ├──  models.py
 │        ├──  reduction.py
