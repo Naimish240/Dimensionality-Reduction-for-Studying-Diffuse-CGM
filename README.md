@@ -1,10 +1,12 @@
-# GSoC21-ML4SCI
-Dimensionality Reduction for Studying Diffuse Circumgalactic Medium Evaluation Test Solutions
+# Dimensionality-Reduction-for-Studying-Diffuse-CGM
+
+This was done as a part of the evaluation task for the GSoC 2021 project (titled the same name) offered by the ML4SCI organization.
+
 ***
 
-PDFs for the task solutions can be found in [solutions/pdfs/](https://github.com/Naimish240/GSoC21-ML4SCI/tree/main/solutions/pdfs)
+PDFs for the task solutions can be found in [solutions/pdfs/](https://github.com/Naimish240/Dimensionality-Reduction-for-Studying-Diffuse-CGM/tree/main/solutions/pdfs)
 
-Notebooks for the task solutions can be found in [solutions/Notebooks/](https://github.com/Naimish240/GSoC21-ML4SCI/tree/main/solutions/notebooks)
+Notebooks for the task solutions can be found in [solutions/Notebooks/](https://github.com/Naimish240/Dimensionality-Reduction-for-Studying-Diffuse-CGM/tree/main/solutions/notebooks)
 
 Repo Structure
 ```
